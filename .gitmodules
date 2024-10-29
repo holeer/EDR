@@ -4,3 +4,6 @@
 [submodule "sl-drawing"]
 	path = sl-drawing
 	url = git@github.com:holeer/sl-drawing.git
+[submodule "sl-drawingManage"]
+	path = sl-drawingManage
+	url = git@github.com:holeer/sl-drawingManage.git
