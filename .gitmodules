@@ -1,0 +1,3 @@
+[submodule "sl-yolo"]
+	path = sl-yolo
+	url = https://github.com/holeer/sl-yolo
