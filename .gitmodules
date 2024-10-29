@@ -1,3 +1,6 @@
 [submodule "sl-yolo"]
 	path = sl-yolo
 	url = https://github.com/holeer/sl-yolo
+[submodule "sl-drawing"]
+	path = sl-drawing
+	url = git@github.com:holeer/sl-drawing.git
